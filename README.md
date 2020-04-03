@@ -19,7 +19,7 @@ title={Distributed Adaptive Control of Fan Coil Units for Interconnected
 Building Zones: A Cascade Control Approach}, 
 year={2020}, 
 pages={}, 
-doi={}, 
+doi={},  
 ISSN={}, 
 month={}}
 ```
