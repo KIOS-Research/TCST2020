@@ -12,7 +12,7 @@ The included code is an open-source sofware, originally developed by the [KIOS R
 ## How to cite 
 
 ```
-@INPROCEEDINGS{LymperopoulosTCST2020, 
+@ARTICLE{LymperopoulosTCST2020, 
 author={G. Lymperopoulos and P. M. Papadopoulos and Petros Ioannou and M. M. Polycarpou}, 
 booktitle={Transactions on Control System Technology}, 
 title={Distributed Adaptive Control of Fan Coil Units for Interconnected
